@@ -1,0 +1,23 @@
+ID_Employe,Nom_Employe,Email,Manager_ID
+99,René GOSSA,gossa.rene@auvider.com,
+90,Janice Ray,kayla.rodriguez@auvider.com,99
+91,Michael Smith,ronald.thompson@auvider.com,99
+80,Kimberly Ball,susan.holmes@auvider.com,91
+81,Megan Diaz,brent.wright@auvider.com,91
+82,Matthew Rivera,melinda.bryant@auvider.com,91
+83,Ryan Cortez,laurie.contreras@auvider.com,91
+1,Eric Ortiz,vanessa.larson@auvider.com,83
+2,Edward Martinez,stephanie.vance@auvider.com,82
+3,Todd Byrd,cheyenne.ball@auvider.com,82
+4,Lisa Turner,william.rivas@auvider.com,82
+5,April Mitchell,amy.merritt@auvider.com,81
+6,Kevin Pena,julia.wells@auvider.com,80
+7,Jeremy Lewis,jonathon.wright@auvider.com,81
+8,Steven Flynn,dana.cannon@auvider.com,82
+9,Bradley Robertson,adrienne.sims@auvider.com,80
+10,Frances Cardenas,joshua.jones@auvider.com,81
+11,Megan Walker,justin.nelson@auvider.com,81
+12,Alexander Sanchez,luis.fernandez@auvider.com,81
+13,Samuel Jones,devon.hall@auvider.com,83
+14,Mark Lee,heather.mccarthy@auvider.com,82
+15,Kathleen Sanchez,caleb.russell@auvider.com,82
