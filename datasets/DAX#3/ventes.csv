@@ -1,0 +1,21 @@
+ID Vente,Date,Client,Pays,Produit,Catégorie,Quantité,Prix Unitaire,Remise (%),Statut Livraison
+001,2025-01-03,Client C,Canada,Smartphone,Téléphonie,7,250,10.0,Annulé
+002,2025-01-05,Client G,Togo,Smartphone,Téléphonie,5,250,10.0,Annulé
+003,2025-01-07,Client I,Bénin,Casque Bluetooth,Accessoires,7,80,,Annulé
+004,2025-01-09,Client E,France,Clavier Mécanique,Accessoires,0,90,5.0,En attente
+005,2025-01-11,Client H,Bénin,Écran LED,Informatique,7,150,5.0,Annulé
+006,2025-01-13,Client I,Bénin,Écran LED,Informatique,7,150,5.0,Annulé
+007,2025-01-15,Client J,Canada,Clavier Mécanique,Accessoires,1,90,5.0,Livré
+008,2025-01-17,Client I,Bénin,Clavier Mécanique,Accessoires,5,90,5.0,En attente
+009,2025-01-19,Client B,France,Ordinateur Portable,Informatique,2,400,0.0,Livré
+010,2025-01-21,Client J,Bénin,Tablette,Téléphonie,0,300,10.0,Livré
+011,2025-01-23,Client C,Canada,Clavier Mécanique,Accessoires,7,90,10.0,Annulé
+012,2025-01-25,Client E,Belgique,Écran LED,Informatique,5,150,10.0,Livré
+013,2025-01-27,Client D,France,Clavier Mécanique,Accessoires,3,90,5.0,En attente
+014,2025-01-29,Client H,Bénin,Clavier Mécanique,Accessoires,1,90,0.0,Livré
+015,2025-01-31,Client A,Belgique,Imprimante Laser,Informatique,5,600,0.0,Annulé
+016,2025-02-02,Client A,Bénin,Tablette,Téléphonie,7,300,,Livré
+017,2025-02-04,Client A,France,Smartphone,Téléphonie,0,250,15.0,Livré
+018,2025-02-06,Client H,Canada,Casque Bluetooth,Accessoires,5,80,0.0,Annulé
+019,2025-02-08,Client J,Togo,Casque Gamer,Accessoires,1,150,10.0,En attente
+020,2025-02-10,Client B,Bénin,Tablette,Téléphonie,7,300,10.0,En attente
